@@ -1,4 +1,4 @@
-package py.una.pol.distribuidos.pizarra.gui;
+package py.una.pol.distribuidos.pizarra.cliente.gui;
 
 import java.awt.Color;
 import java.awt.Graphics;
